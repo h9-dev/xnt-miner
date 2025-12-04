@@ -1,2 +1,2 @@
 # xnt-miner
-The miner for Neptune-Privacy.
+More details see https://github.com/h9-dev/xnt-miner/releases
